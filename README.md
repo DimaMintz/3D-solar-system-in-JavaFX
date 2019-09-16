@@ -1,1 +1,0 @@
-# 3D-solar-system-in-JavaFX
